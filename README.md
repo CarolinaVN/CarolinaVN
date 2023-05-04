@@ -1,6 +1,7 @@
-### Hi there 👋
-
-<!--
+-### Hi there 👋
+soy unadesarrolladora web en proceso 👩🏻‍💻
+💛 Sigo  aprendiendo en Laboratoria
+<!-
 **CarolinaVN/CarolinaVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
