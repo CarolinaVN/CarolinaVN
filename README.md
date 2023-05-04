@@ -1,7 +1,7 @@
--### Hooooola Mundo 👋
--👩🏻‍💻 Soy una desarrolladora web en proceso
--💛 Sigo  aprendiendo en Laboratoria
--📚 Tecnologias y lenguajes que utilizo actualmente HTML, JS, CSS, NODE.JS, GIT Y FIREBASE 
+--### Hooooola Mundo 👋
+--👩🏻‍💻 Soy una desarrolladora web en proceso
+--💛 Sigo  aprendiendo en Laboratoria
+--📚 Tecnologias y lenguajes que utilizo actualmente HTML, JS, CSS, NODE.JS, GIT Y FIREBASE 
 <!--
 **CarolinaVN/CarolinaVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
