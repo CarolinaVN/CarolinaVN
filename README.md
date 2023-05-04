@@ -1,4 +1,4 @@
-### Hooooola Mundo 👋
+-### Hooooola Mundo 👋
 -👩🏻‍💻 Soy una desarrolladora web en proceso
 -💛 Sigo  aprendiendo en Laboratoria
 -📚 Tecnologias y lenguajes que utilizo actualmente HTML, JS, CSS, NODE.JS, GIT Y FIREBASE 
