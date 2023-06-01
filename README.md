@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Carolina Vera Nahuelcoy</h1>
 <h3 align="center">👩🏻‍💻 Hello, I am a web developer in progress. 🇨🇱</h3>
-
+<p align="center">
+  <img src="./banner.jpg" alt="Banner">
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carolinavn" alt="carolinavn" /></a> </p>
 
 - 🔭 I’m currently working on **Burger Queen API Client**
