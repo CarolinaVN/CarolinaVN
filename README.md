@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Carolina Vera Nahuelcoy</h1>
+<p align="center">
+  <img src="./banner.png" alt="Banner Carolina Frontend Developer">
+</p>
 <h3 align="center">👩🏻‍💻 Web developer in progress. from 🇨🇱</h3>
 
 - 🔭 I’m currently working on **Burger Queen API Client**
