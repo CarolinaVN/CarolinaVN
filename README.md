@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../bannerCaro.png" alt="Banner Carolina Frontend Developer">
+  <img src="bannerCaro.png" alt="Banner Carolina Frontend Developer">
 </p>
 <h3 align="center">👩🏻‍💻 Web developer in progress. from 🇨🇱</h3>
 
